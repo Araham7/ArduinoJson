@@ -1,4 +1,4 @@
-# Mastering-ArduinoJson-6
+# Mastering-ArduinoJson
 
 <!-- *************************************** -->
 ## (1). Understand the Basics of JSON :---
