@@ -100,3 +100,10 @@ if (error) {
 
 - Implement real-world applications like **sending sensor data over Wi-Fi** (e.g., using an ESP32/ESP8266).
 - **Interfacing with APIs** that require JSON data (e.g., sending HTTP POST requests with JSON data).
+
+# License
+
+This project is licensed under the GNU License - see the [LICENSE](./LICENSE) file for details.
+
+
+
